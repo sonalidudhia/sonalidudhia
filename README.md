@@ -9,8 +9,7 @@
   <a href="https://sonalidudhia.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=sonalidudhia&style=flat-square&color=grey&label=Profile+Views" />
+
 </p>
 
 ---
