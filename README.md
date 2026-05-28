@@ -15,8 +15,7 @@
 
 ---
 
-Software contractor building performant web apps and e-commerce solutions.  
-Specializing in **Laravel**, **Shopify**, and **React** — from architecture to deployment.
+7+ years delivering full-cycle web products from architecture to production. Laravel, PHP, Vue, React, and AWS across healthcare, fintech, e-commerce, real estate, and SaaS. I lead requirement discovery, own delivery, and communicate directly with clients.
 
 ---
 
@@ -24,26 +23,37 @@ Specializing in **Laravel**, **Shopify**, and **React** — from architecture to
 
 **Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white)
+![Zend](https://img.shields.io/badge/Zend-68B604?style=flat-square&logo=zend&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **Frontend**
 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=laravel&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**E-commerce & CMS**
+**Cloud & Data**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-555?style=flat-square&logo=apacheairflow&logoColor=white)
+
+**Platforms & Tools**
 
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-
-**Tools & Infra**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![React Polaris](https://img.shields.io/badge/Polaris-5C6AC4?style=flat-square&logo=shopify&logoColor=white)
+![NativePHP](https://img.shields.io/badge/NativePHP-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white)
+![PEST](https://img.shields.io/badge/PEST-3FB27F?style=flat-square&logo=php&logoColor=white)
 
 ---
 
