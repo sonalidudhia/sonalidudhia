@@ -4,11 +4,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/sonalidudhia"><img src="https://img.shields.io/badge/in-sonalidudhia-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://x.com/dudhia_sonali"><img src="https://img.shields.io/badge/𝕏-dudhia__sonali-000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/dudhia_sonali"><img src="https://img.shields.io/badge/dudhia__sonali-000?style=flat-square&logo=x&logoColor=white" /></a>
   &nbsp;
-  <a href="https://sonalidudhia.dev/"><img src="https://img.shields.io/badge/🌐-sonalidudhia.dev-111?style=flat-square" /></a>
+  <a href="https://sonalidudhia.dev/"><img src="https://img.shields.io/badge/sonalidudhia.dev-111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=sonalidudhia&style=flat-square&color=blueviolet&label=👁️+views" />
+  <img src="https://komarev.com/ghpvc/?username=sonalidudhia&style=flat-square&color=blueviolet&label=👁️" />
 </p>
 
 ---
