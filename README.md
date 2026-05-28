@@ -6,10 +6,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-sonalidudhia-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://x.com/dudhia_sonali">
+    <img src="https://img.shields.io/badge/Twitter-@dudhia_sonali?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://sonalidudhia.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white" />
   </a>
+</p>
 
+<p align="center">
+  👁️ <img src="https://komarev.com/ghpvc/?username=sonalidudhia&style=flat-square&color=blueviolet&label=Profile+Views" />
 </p>
 
 ---
@@ -55,25 +62,6 @@
 ![PEST](https://img.shields.io/badge/PEST-3FB27F?style=flat-square&logo=php&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sonalidudhia&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidudhia&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sonalidudhia&theme=github-dark-blue&hide_border=true"
-  />
-</p>
 
 ---
 
