@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; Laravel &amp; Shopify Specialist</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sonalidudhia"><img src="https://img.shields.io/badge/--%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sonalidudhia"><img src="https://img.shields.io/badge/in-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="https://x.com/dudhia_sonali"><img src="https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white" /></a>
   &nbsp;
