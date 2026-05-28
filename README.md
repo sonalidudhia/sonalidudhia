@@ -2,11 +2,11 @@
 <h3 align="center">Software Engineer &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; Laravel &amp; Shopify Specialist</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sonalidudhia"><img src="https://img.shields.io/badge/in-sonalidudhia-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sonalidudhia"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://x.com/dudhia_sonali"><img src="https://img.shields.io/badge/dudhia__sonali-000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/dudhia_sonali"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=x&logoColor=white" /></a>
   &nbsp;
-  <a href="https://sonalidudhia.dev/"><img src="https://img.shields.io/badge/sonalidudhia.dev-111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://sonalidudhia.dev/"><img src="https://img.shields.io/badge/sonalidudhia.dev-0d9488?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=sonalidudhia&style=flat-square&color=blueviolet&label=👁️" />
 </p>
@@ -52,8 +52,6 @@
 ![NativePHP](https://img.shields.io/badge/NativePHP-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white)
 ![PEST](https://img.shields.io/badge/PEST-3FB27F?style=flat-square&logo=php&logoColor=white)
-
----
 
 ---
 
