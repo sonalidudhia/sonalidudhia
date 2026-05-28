@@ -2,21 +2,13 @@
 <h3 align="center">Software Engineer &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; Laravel &amp; Shopify Specialist</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sonalidudhia">
-    <img src="https://img.shields.io/badge/LinkedIn-sonalidudhia-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/sonalidudhia"><img src="https://img.shields.io/badge/in-sonalidudhia-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://x.com/dudhia_sonali">
-    <img src="https://img.shields.io/badge/Twitter-@dudhia_sonali?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
+  <a href="https://x.com/dudhia_sonali"><img src="https://img.shields.io/badge/𝕏-dudhia__sonali-000?style=flat-square&logo=x&logoColor=white" /></a>
   &nbsp;
-  <a href="https://sonalidudhia.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  👁️ <img src="https://komarev.com/ghpvc/?username=sonalidudhia&style=flat-square&color=blueviolet&label=Profile+Views" />
+  <a href="https://sonalidudhia.dev/"><img src="https://img.shields.io/badge/🌐-sonalidudhia.dev-111?style=flat-square" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sonalidudhia&style=flat-square&color=blueviolet&label=👁️+views" />
 </p>
 
 ---
